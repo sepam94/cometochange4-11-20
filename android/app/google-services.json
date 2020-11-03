@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "788356613957",
+    "firebase_url": "https://cometochange-pp.firebaseio.com",
+    "project_id": "cometochange-pp",
+    "storage_bucket": "cometochange-pp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788356613957:android:eebd415eb485a164c1e02c",
+        "android_client_info": {
+          "package_name": "com.android.cometochange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788356613957-5jae95e2hm04nc0rmkh6hv49uefn8sej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9c2fVBCW6r_jz68aDGoo8xN-VMVmFAmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788356613957-5jae95e2hm04nc0rmkh6hv49uefn8sej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
